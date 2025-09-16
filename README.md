@@ -21,6 +21,7 @@ project-name/
 
 Example:
 
+```
 2024 Loan Approval/
 │
 ├── notebooks/
