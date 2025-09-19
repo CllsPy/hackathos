@@ -1,6 +1,6 @@
 # Hackathos
 
-Documenting my hackathon projects, Kaggle competitions, and experiments — including wins, baselines, and approaches I tried along the way.
+Documenting my hackathon projects, Kaggle competitions, and experiments, including wins, baselines, and approaches I tried along the way.
 
 These projects reflect my participation in data challenges, from classic Kaggle problems (Titanic, Disaster Tweets) to domain-specific datasets (earthquake damage, steel plate defects, loan approvals, etc.).
 
